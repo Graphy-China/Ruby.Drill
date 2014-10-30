@@ -1,0 +1,9 @@
+*~
+*#
+.#*
+*.log
+.bundle
+.gitkeep
+TestDataTable/tmp/
+TestDataTable/public/system/
+TestDataTable/db/test.sqlite3
